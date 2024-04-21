@@ -1,0 +1,71 @@
+age_group,gender,religion,social_media_platform,privacy_concern,cultural_norm,cultural_comfort,behavior_modification
+Middle-aged (35-54),Male,Islam,Instagram,Somewhat concerned,No,Somewhat comfortable,"Yes, frequently"
+Older (55+),Male,Islam,Facebook,Somewhat concerned,No,Somewhat comfortable,"Yes, frequently"
+Older (55+),Male,Islam,Facebook,Not very concerned,Yes,Somewhat comfortable,"Yes, frequently"
+Young Adult (18-34),Male,Islam,TikTok,Very concerned,Yes,Somewhat comfortable,"Yes, frequently"
+Young Adult (18-34),Male,Hinduism,Snapchat,Not concerned at all,Yes,Somewhat comfortable,"Yes, frequently"
+Young Adult (18-34),Male,Hinduism,Instagram,Not very concerned,Yes,Somewhat comfortable,"Yes, frequently"
+Older (55+),Male,Hinduism,Facebook,Somewhat concerned,Yes,Somewhat comfortable,"Yes, frequently"
+Child (Under 18),Female,Hinduism,Snapchat,Somewhat concerned,No,Somewhat comfortable,"Yes, frequently"
+Child (Under 18),Female,Hinduism,Snapchat,Not very concerned,No,Somewhat comfortable,"Yes, frequently"
+Middle-aged (35-54),Female,Hinduism,Snapchat,Not very concerned,No,Not comfortable at all,"Yes, frequently"
+Middle-aged (35-54),Female,Hinduism,Snapchat,Somewhat concerned,No,Not comfortable at all,"Yes, frequently"
+Child (Under 18),Female,Hinduism,TikTok,Very concerned,No,Not comfortable at all,"Yes, frequently"
+Child (Under 18),Female,Hinduism,Snapchat,Not concerned at all,No,Not comfortable at all,"Yes, frequently"
+Older (55+),Female,Hinduism,Facebook,Not very concerned,Yes,Not comfortable at all,"Yes, frequently"
+Middle-aged (35-54),Female,Hinduism,Facebook,Not concerned at all,No,Not comfortable at all,"Yes, frequently"
+Child (Under 18),Female,Hinduism,TikTok,Not very concerned,Yes,Not comfortable at all,"Yes, frequently"
+Young Adult (18-34),Female,Hinduism,Facebook,Not very concerned,No,Not comfortable at all,"Yes, frequently"
+Middle-aged (35-54),Female,Hinduism,TikTok,Somewhat concerned,Yes,Not comfortable at all,"Yes, frequently"
+Child (Under 18),Female,Hinduism,TikTok,Somewhat concerned,No,Not comfortable at all,"Yes, frequently"
+Young Adult (18-34),Female,Islam,Facebook,Not very concerned,No,Not comfortable at all,"Yes, frequently"
+Young Adult (18-34),Female,Islam,Facebook,Somewhat concerned,Yes,Not comfortable at all,"Yes, occasionally"
+Young Adult (18-34),Female,Islam,Facebook,Not concerned at all,No,Not comfortable at all,"Yes, occasionally"
+Child (Under 18),Female,Islam,Facebook,Not very concerned,No,Not comfortable at all,"Yes, occasionally"
+Middle-aged (35-54),Female,Islam,Facebook,Somewhat concerned,No,Not comfortable at all,"Yes, occasionally"
+Middle-aged (35-54),Female,Islam,Facebook,Somewhat concerned,No,Not comfortable at all,"Yes, occasionally"
+Older (55+),Female,Islam,Facebook,Somewhat concerned,No,Not comfortable at all,"Yes, occasionally"
+Young Adult (18-34),Female,Islam,Facebook,Not very concerned,Yes,Not comfortable at all,"Yes, occasionally"
+Young Adult (18-34),Female,Islam,Facebook,Very concerned,Yes,Not comfortable at all,"Yes, occasionally"
+Older (55+),Male,Islam,Facebook,Not very concerned,No,Not comfortable at all,"Yes, occasionally"
+Child (Under 18),Male,Islam,Facebook,Not concerned at all,No,Not comfortable at all,"Yes, occasionally"
+Middle-aged (35-54),Male,Islam,Instagram,Not very concerned,No,Not comfortable at all,"Yes, occasionally"
+Child (Under 18),Male,Islam,Twitter,Not concerned at all,No,Not comfortable at all,"Yes, occasionally"
+Child (Under 18),Male,Islam,Instagram,Somewhat concerned,Yes,Not comfortable at all,Never
+Older (55+),Male,Islam,TikTok,Not concerned at all,No,Not comfortable at all,Never
+Young Adult (18-34),Male,Islam,Instagram,Very concerned,No,Very comfortable,Never
+Child (Under 18),Male,Islam,Instagram,Not concerned at all,Yes,Very comfortable,Never
+Child (Under 18),Male,Islam,Instagram,Not very concerned,Yes,Very comfortable,Never
+Child (Under 18),Female,Islam,TikTok,Not concerned at all,No,Very comfortable,Never
+Young Adult (18-34),Female,Islam,TikTok,Not concerned at all,No,Very comfortable,Never
+Older (55+),Female,Islam,TikTok,Somewhat concerned,No,Very comfortable,Never
+Middle-aged (35-54),Female,Islam,TikTok,Not very concerned,Yes,Not comfortable at all,Never
+Child (Under 18),Female,Islam,TikTok,Somewhat concerned,Yes,Not comfortable at all,Never
+Young Adult (18-34),Female,Islam,TikTok,Not very concerned,No,Not comfortable at all,Never
+Child (Under 18),Female,Islam,TikTok,Somewhat concerned,No,Not comfortable at all,Never
+Older (55+),Female,Islam,Facebook,Not very concerned,Yes,Not comfortable at all,Never
+Middle-aged (35-54),Female,Islam,Facebook,Somewhat concerned,No,Not comfortable at all,Never
+Older (55+),Female,Islam,Facebook,Not very concerned,Yes,Not comfortable at all,Rarely
+Middle-aged (35-54),Female,Islam,Facebook,Not concerned at all,Yes,Not comfortable at all,Rarely
+Child (Under 18),Female,Islam,Facebook,Somewhat concerned,No,Not comfortable at all,Rarely
+Young Adult (18-34),Female,Islam,Facebook,Somewhat concerned,No,Extremely comfortable,Rarely
+Older (55+),Female,Islam,Facebook,Somewhat concerned,Yes,Extremely comfortable,Rarely
+Child (Under 18),Female,Islam,Facebook,Not very concerned,No,Extremely comfortable,Rarely
+Child (Under 18),Female,Islam,Snapchat,Very concerned,No,Extremely comfortable,Rarely
+Older (55+),Male,Islam,Facebook,Not concerned at all,No,Very comfortable,Rarely
+Older (55+),Male,Islam,Facebook,Not very concerned,Yes,Very comfortable,Rarely
+Young Adult (18-34),Male,Islam,Facebook,Somewhat concerned,Yes,Somewhat comfortable,Rarely
+Young Adult (18-34),Male,Islam,Facebook,Not concerned at all,No,Somewhat comfortable,Not sure
+Young Adult (18-34),Male,Islam,Twitter,Somewhat concerned,Yes,Somewhat comfortable,Not sure
+Child (Under 18),Male,Islam,Youtube,Somewhat concerned,Yes,Somewhat comfortable,Not sure
+Young Adult (18-34),Male,Islam,Youtube,Not concerned at all,Yes,Somewhat comfortable,Not sure
+Older (55+),Male,Islam,Youtube,Very concerned,Yes,Somewhat comfortable,Not sure
+Middle-aged (35-54),Male,Islam,Youtube,Not very concerned,No,Somewhat comfortable,Not sure
+Middle-aged (35-54),Male,Islam,Youtube,Not concerned at all,Yes,Somewhat comfortable,Not sure
+Young Adult (18-34),Male,Islam,Youtube,Somewhat concerned,No,Somewhat comfortable,Not sure
+Child (Under 18),Male,Islam,Youtube,Not concerned at all,No,Somewhat comfortable,Not sure
+Young Adult (18-34),Male,Islam,Youtube,Very concerned,No,Somewhat comfortable,Not sure
+Child (Under 18),Male,Islam,Youtube,Very concerned,Yes,Somewhat comfortable,Not sure
+Older (55+),Female,Islam,Facebook,Not concerned at all,No,Somewhat comfortable,Not sure
+Older (55+),Female,Islam,Facebook,Not very concerned,Yes,Very comfortable,Not sure
+Child (Under 18),Female,Islam,Instagram,Somewhat concerned,Yes,Very comfortable,Not sure
